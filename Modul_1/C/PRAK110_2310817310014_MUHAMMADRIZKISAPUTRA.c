@@ -10,7 +10,7 @@ int main(){
     int luas_segitiga = alas * tinggi / 2;
 printf("diketahui : \n"); 
 printf("alas = %d\ntinggi = %d\n\n",alas , tinggi);
-printf("Jawab :\n sisi A = %d\n sisi B = %d\n sisi c = %d\n",alas ,sisi_miring_segitiga, tinggi);
+printf("Jawab :\n sisi A = ? %d\n sisi B = ? %d\n sisi c = ? %d\n",alas ,sisi_miring_segitiga, tinggi);
 printf("keliling = %d\n",kel_segitiga);
 printf("Luas = %d",luas_segitiga);
     return 0;
